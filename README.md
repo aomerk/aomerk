@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Just made everyting private 😔, gotta add some readmes to my toy projects. 
+Just made (almost) everyting private 😔, gotta add some readmes to my toy projects. 
 
 WIP
 
