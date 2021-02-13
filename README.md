@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Just made everyting private 😔, gotta add some readmes to my toy projects. 
+
+WIP
+
 <!--
 **aomerk/aomerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
